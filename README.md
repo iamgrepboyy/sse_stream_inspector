@@ -1,0 +1,2 @@
+# sse_stream_inspector
+sse_stream_inspector Burp Extension
